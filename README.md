@@ -30,7 +30,7 @@ Clone this repository
 ```
 >  git clone https://github.com/dmbala/AI4Fold_Tutorials
 ```
-(On Amarel cluster, try "cp -r /projects/oarc/users/training/AI4Fold AI4Fold_Tutorial"
+(On Amarel cluster, try "cp -r /projects/oarc/users/training/AI4Fold AI4Fold_Tutorial")
 ```
 >  cd AI4Fold_Tutrials
 ```
