@@ -11,7 +11,7 @@
 * Query AlphaFoldDB  
 * Do prediction on 
      * AF2 or RoseTTAFold servers
-     * your local cluster/Workstation or external resources like  XSEDE, National Supercomputers, Cloud
+     * local cluster/workstation or external resources like  XSEDE, National Supercomputers, Cloud
 
 ## Pointers to external Resources
 Query PDB: https://www.rcsb.org/
