@@ -14,10 +14,10 @@
      * local cluster/workstation or external resources like  XSEDE, National Supercomputers, Cloud
 
 ## Pointers to external Resources
-Query PDB: https://www.rcsb.org/
-Query AlphaFoldDB https://alphafold.ebi.ac.uk/
-Robetta Server: https://robetta.bakerlab.org/
-AlphaFold Colab: https://colab.sandbox.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb
+- Query PDB: https://www.rcsb.org/
+- Query AlphaFoldDB https://alphafold.ebi.ac.uk/
+- Robetta Server: https://robetta.bakerlab.org/
+- AlphaFold Colab: https://colab.sandbox.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb
 
 ## Local Clusters/Workstation
 
