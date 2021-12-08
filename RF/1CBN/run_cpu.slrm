@@ -1,0 +1,42 @@
+#!/bin/bash
+#SBATCH --partition=main             # Partition (job queue)
+#SBATCH --reservation=iqb_ai
+#SBATCH --requeue                    # Return job to the queue if preempted
+#SBATCH --job-name=rf_1CBN         # Assign an short name to your job
+#SBATCH --nodes=1                    # Number of nodes you require
+#SBATCH --cpus-per-task=4            # Cores per task (>1 if multithread tasks)
+#SBATCH --mem=32GB                  # Real memory (RAM) required (MB), 0 is the whole-node memory
+#SBATCH --time=4:00:00              # Total run time limit (HH:MM:SS)
+#SBATCH --output=slurm.run_cpu.%N.%j.out     # STDOUT output file
+#SBATCH --error=slurm.run_cpu.%N.%j.err      # STDERR output file (optional)
+
+#jcpus=$SLURM_CPUS_PER_TASK
+jcpus=$SLURM_CPUS_ON_NODE
+jmem=$(($SLURM_MEM_PER_NODE/1024))
+
+echo $jcpus
+echo $jmem
+
+
+echo "--------------------------------" 
+date 
+echo "--begin time---" 
+bdate=$(date +%s) 
+echo $bdate 
+
+./wrapper_rf.sh ./input.fa  $jcpus $jmem
+
+echo "--end Time---" 
+edate=$(date +%s) 
+echo $edate 
+echo "--time spend---" 
+echo $(( $bdate - $edate ))
+#echo $(( $bdate - $edate )) 
+echo "--------------------------------"
+
+
+
+sleep 6
+sacct --format=MaxRSS,MaxDiskRead,MaxDiskWrite,Elapsed -j $SLURM_JOBID
+sleep 2
+

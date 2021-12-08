@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+#=GF ID 1CBN_1|Chain-i1
+#=GF DE A|CRAMBIN|Crambe hispanica subsp. abyssinica (3721)
+#=GF AU jackhmmer (HMMER 3.3.2)
+
+#=GS 1CBN_1|Chain               DE A|CRAMBIN|Crambe hispanica subsp. abyssinica (3721)
+#=GS SRR5580698_1594107/181-214 DE [subseq from] SRR5580698_1594107
+#=GS A0A1J3FWR2_NOCCA/43-85     DE [subseq from] A0A1J3FWR2_NOCCA
+#=GS R0GYM0_9BRAS/108-148       DE [subseq from] R0GYM0_9BRAS
+#=GS R0H2A6_9BRAS/26-67         DE [subseq from] R0H2A6_9BRAS
+#=GS A0A0E0PYI6_ORYRU/29-68     DE [subseq from] A0A0E0PYI6_ORYRU
+#=GS A0A0E0PYI6_ORYRU/157-196   DE [subseq from] A0A0E0PYI6_ORYRU
+#=GS A0A287T4J1_HORVV/30-73     DE [subseq from] A0A287T4J1_HORVV
+
+1CBN_1|Chain                       TTCCPSIVARSNFNVCRLPGTSEAICATYTGCIIIPGATCPGDYAN
+SRR5580698_1594107/181-214         --VCPGVVGRSGFGWFGVPGLDGCVAGGFVGL-VCPG---------
+#=GR SRR5580698_1594107/181-214 PP ..6**********************9999996.4566.........
+A0A1J3FWR2_NOCCA/43-85             -SCCPTTAARNTYNVCRLPGTPRPVCASLSGCIIISGTRCPPNY--
+#=GR A0A1J3FWR2_NOCCA/43-85     PP .7***************************************999..
+R0GYM0_9BRAS/108-148               -SCCPNTTARNCYNVCRLPGTPRPTCASLCGCKIVEGPTCPP----
+#=GR R0GYM0_9BRAS/108-148       PP .7**************************************94....
+R0H2A6_9BRAS/26-67                 -SCCPTTTARNVYNTCRLAGLSRAVCANRSGCRLVNG-SCPNGY--
+#=GR R0H2A6_9BRAS/26-67         PP .7********************************988.699988..
+A0A0E0PYI6_ORYRU/29-68             -SCCPTTTARNIYNACRFAHGTRERCSKLSGCKIVDGKCKP-----
+#=GR A0A0E0PYI6_ORYRU/29-68     PP .7***************98666778**********997544.....
+A0A0E0PYI6_ORYRU/157-196           -SCCPTTTARNIYNACRFALGTRERCSKLSGCKIVDGKCKP-----
+#=GR A0A0E0PYI6_ORYRU/157-196   PP .7***************98555667**********997544.....
+A0A287T4J1_HORVV/30-73             -SCCKNTTGRNCYNACRFAGGSRPVCATACGCKIISGPTCPRDYP-
+#=GR A0A287T4J1_HORVV/30-73     PP .7*****************************************95.
+#=GC PP_cons                       .79***************9999999******9*999998888995.
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,160 @@
+Query         1CBN_1|Chain A|CRAMBIN|Crambe hispanica subsp. abyssinica (3721)
+Match_columns 46
+No_of_seqs    65 out of 74
+Neff          2.62837
+Searched_HMMs 80799
+Date          Tue Dec  7 17:02:16 2021
+Command       /projects/community/ai-fold/2021/bd387/envs/af2/bin/hhsearch -i /tmp/tmph6j9x3_e/query.a3m -o /tmp/tmph6j9x3_e/output.hhr -maxseq 1000000 -d /projects/community/alphafold/dbs/reduced_dbs/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 1EJG_A CRAMBIN (PRO22,SER22/LE  99.8 8.8E-25 1.1E-29  119.6   0.0   46    1-46      1-46  (46)
+  2 2EYD_A CRAMBIN; CRAMBIN, DPC,   99.8 8.8E-25 1.1E-29  119.6   0.0   46    1-46      1-46  (46)
+  3 3NIR_A Crambin; plant protein;  99.8 8.8E-25 1.1E-29  119.6   0.0   46    1-46      1-46  (46)
+  4 2V9B_B VISCOTOXIN-B; TOXIN, TH  99.8 2.2E-24 2.7E-29  118.0   0.0   46    1-46      1-46  (46)
+  5 3SZS_B Hellethionin-D; MR-SAD,  99.8 4.2E-24 5.2E-29  116.9   0.0   46    1-46      1-46  (46)
+  6 2PLH_A ALPHA-1-PUROTHIONIN, 2-  99.8 4.4E-24 5.4E-29  116.6   0.0   45    1-46      1-45  (45)
+  7 1BHP_A BETA-PUROTHIONIN; PLANT  99.8 5.5E-24 6.8E-29  116.2   0.0   45    1-46      1-45  (45)
+  8 1WUW_B Beta-hordothionin; cram  99.8 6.4E-24   8E-29  116.0   0.0   45    1-46      1-45  (45)
+  9 1G1Q_B P-SELECTIN; Lectin, EGF  34.2      34 0.00042   19.5   0.0   31   15-45    116-149 (162)
+ 10 1G1S_A P-SELECTIN, PSGL-1 PEPT  34.2      34 0.00042   19.5   0.0   31   15-45    116-149 (162)
+
+No 1
+>1EJG_A CRAMBIN (PRO22,SER22/LEU25,ILE25); VALENCE ELECTRON DENSITY, MULTI-SUBSTATE, MULTIPOLE; 0.54A {Crambe hispanica subsp. abyssinica} SCOP: g.13.1.1
+Probab=99.82  E-value=8.8e-25  Score=119.57  Aligned_cols=46  Identities=96%  Similarity=1.728  Sum_probs=44.6  Template_Neff=5.100
+
+Q 1CBN_1|Chain      1 TTCCPSIVARSNFNVCRLPGTSEAICATYTGCIIIPGATCPGDYAN   46 (46)
+Q Consensus         1 ~SCCPsttARN~YN~CRl~G~sr~~CA~lsgCkIi~g~tCP~~Y~n   46 (46)
+                      |+|||+++|||+||+||+.|.++++||+++|||++++++||+||++
+T Consensus         1 ~sCCpst~aRn~Yn~Cr~~g~~~~~Ca~~sGCk~~~g~~CP~gy~~   46 (46)
+T 1EJG_A            1 TTCCPSIVARSNFNVCRLPGTPEALCATYTGCIIIPGATCPGDYAN   46 (46)
+T ss_dssp             CEECSSHHHHHHHHHHHTTTCCHHHHHHHHSCEECSSSCCCTTSCC
+T ss_pred             CCcCCCccHHHcchhhcCCCCChhHHhhhcCCEEcCCCCCCCCCCC
+Confidence            7999999999999999999999999999999999999999999986
+
+
+No 2
+>2EYD_A CRAMBIN; CRAMBIN, DPC, MICELLES, PLANT PROTEIN; NMR {Crambe hispanica subsp. abyssinica} SCOP: g.13.1.1
+Probab=99.82  E-value=8.8e-25  Score=119.57  Aligned_cols=46  Identities=96%  Similarity=1.728  Sum_probs=44.6  Template_Neff=5.100
+
+Q 1CBN_1|Chain      1 TTCCPSIVARSNFNVCRLPGTSEAICATYTGCIIIPGATCPGDYAN   46 (46)
+Q Consensus         1 ~SCCPsttARN~YN~CRl~G~sr~~CA~lsgCkIi~g~tCP~~Y~n   46 (46)
+                      |+|||+++|||+||+||+.|.++++||+++|||++++++||+||++
+T Consensus         1 ~sCCpst~aRn~Yn~Cr~~g~~~~~Ca~~sGCk~~~g~~CP~gy~~   46 (46)
+T 2EYD_A            1 TTCCPSIVARSNFNVCRLPGTPEALCATYTGCIIIPGATCPGDYAN   46 (46)
+T ss_dssp             CEEBSCHHHHHHHHHTTTTTCCHHHHHHHHSCEECSSCCCCTTTBC
+T ss_pred             CCcCCCccHHHcchhhcCCCCChhHHhhhcCCEEcCCCCCCCCCCC
+Confidence            7999999999999999999999999999999999999999999986
+
+
+No 3
+>3NIR_A Crambin; plant protein; HET: EOH; 0.48A {Crambe hispanica}
+Probab=99.82  E-value=8.8e-25  Score=119.57  Aligned_cols=46  Identities=96%  Similarity=1.728  Sum_probs=44.6  Template_Neff=5.100
+
+Q 1CBN_1|Chain      1 TTCCPSIVARSNFNVCRLPGTSEAICATYTGCIIIPGATCPGDYAN   46 (46)
+Q Consensus         1 ~SCCPsttARN~YN~CRl~G~sr~~CA~lsgCkIi~g~tCP~~Y~n   46 (46)
+                      |+|||+++|||+||+||+.|.++++||+++|||++++++||+||++
+T Consensus         1 ~sCCpst~aRn~Yn~Cr~~g~~~~~Ca~~sGCk~~~g~~CP~gy~~   46 (46)
+T 3NIR_A            1 TTCCPSIVARSNFNVCRLPGTPEALCATYTGCIIIPGATCPGDYAN   46 (46)
+T ss_dssp             CEECSSHHHHHHHHHHHTTTCCHHHHHHHHSCEECSSSCCCTTSCC
+T ss_pred             CCcCCCccHHHcchhhcCCCCChhHHhhhcCCEEcCCCCCCCCCCC
+Confidence            7999999999999999999999999999999999999999999986
+
+
+No 4
+>2V9B_B VISCOTOXIN-B; TOXIN, THIONIN, SECRETED, PLANT TOXIN; HET: SO4; 1.05A {VISCUM ALBUM}
+Probab=99.81  E-value=2.2e-24  Score=118.02  Aligned_cols=46  Identities=46%  Similarity=1.065  Sum_probs=44.6  Template_Neff=5.100
+
+Q 1CBN_1|Chain      1 TTCCPSIVARSNFNVCRLPGTSEAICATYTGCIIIPGATCPGDYAN   46 (46)
+Q Consensus         1 ~SCCPsttARN~YN~CRl~G~sr~~CA~lsgCkIi~g~tCP~~Y~n   46 (46)
+                      |+|||+++|||+||+||+.|.++++||+++|||++++++||+||++
+T Consensus         1 ksCCpst~aRn~Yn~Cr~~g~~~~~Ca~~sgCk~~~g~~CP~gy~~   46 (46)
+T 2V9B_B            1 KSCCPNTTGRDIYNTCRLGGGSRERCASLSGCKIISASTCPSDYPK   46 (46)
+T ss_dssp             CEECSSHHHHHHHHHHHHTTCCHHHHHHHHTCEECSSSCCCTTSCC
+T ss_pred             CCcCCCCcHHHchhhHHcCCCChHHHHHhhCCEEccCCCCCCCCCC
+Confidence            7999999999999999999999999999999999999999999986
+
+
+No 5
+>3SZS_B Hellethionin-D; MR-SAD, gamma thionin, plant defense; HET: CL, NA; 1.95A {Helleborus purpurascens}
+Probab=99.81  E-value=4.2e-24  Score=116.90  Aligned_cols=46  Identities=33%  Similarity=0.847  Sum_probs=44.6  Template_Neff=5.100
+
+Q 1CBN_1|Chain      1 TTCCPSIVARSNFNVCRLPGTSEAICATYTGCIIIPGATCPGDYAN   46 (46)
+Q Consensus         1 ~SCCPsttARN~YN~CRl~G~sr~~CA~lsgCkIi~g~tCP~~Y~n   46 (46)
+                      |+|||+++|||+||+||+.|.++++||+++|||++++++||+||++
+T Consensus         1 ksCCpst~aRn~Yn~Cr~~g~~~~~Ca~~sgCk~~~g~~CP~gy~~   46 (46)
+T 3SZS_B            1 KSCCRNTLARNCYNACRFTGGSQPTCGILCDCIHVTTTTCPSSHPS   46 (46)
+T ss_dssp             CEEESSHHHHHHHHHHHHTTCCHHHHHHHHTEEECSSSSCCTTSCC
+T ss_pred             CcccCCccHHHchHhHHccCCCccchhhhCCcEEccCCCCCCCCCC
+Confidence            7999999999999999999999999999999999999999999986
+
+
+No 6
+>2PLH_A ALPHA-1-PUROTHIONIN, 2-BUTANOL; MEMBRANE ACTIVE, DISULFIDE RICH, TOXIN; HET: SBT, GOL, ACT; 2.5A {Triticum aestivum} SCOP: g.13.1.1
+Probab=99.81  E-value=4.4e-24  Score=116.61  Aligned_cols=45  Identities=33%  Similarity=0.899  Sum_probs=43.4  Template_Neff=5.000
+
+Q 1CBN_1|Chain      1 TTCCPSIVARSNFNVCRLPGTSEAICATYTGCIIIPGATCPGDYAN   46 (46)
+Q Consensus         1 ~SCCPsttARN~YN~CRl~G~sr~~CA~lsgCkIi~g~tCP~~Y~n   46 (46)
+                      |+|||+++|||+||+||+.| ++++||+++|||++++++||+||++
+T Consensus         1 ksCCpst~aRn~Yn~Cr~~g-~~~~Ca~~sgCk~~~g~~CP~gy~~   45 (45)
+T 2PLH_A            1 KSCCRSTLGRNCYNLCRARG-AQKLCAGVCRCKISSGLSCPKGFPK   45 (45)
+T ss_dssp             CEEESSHHHHHHHHHHTTTS-CHHHHHHHHTEEECSSSSCCSSCCC
+T ss_pred             CcccCCccHHHHHhhHHhcC-ChhHHhhhcCcEeccCCCCCCCCCC
+Confidence            79999999999999999999 8899999999999999999999986
+
+
+No 7
+>1BHP_A BETA-PUROTHIONIN; PLANT TOXIN, THIONINS; HET: GOL; 1.7A {Triticum aestivum} SCOP: g.13.1.1
+Probab=99.80  E-value=5.5e-24  Score=116.22  Aligned_cols=45  Identities=33%  Similarity=0.947  Sum_probs=43.4  Template_Neff=5.000
+
+Q 1CBN_1|Chain      1 TTCCPSIVARSNFNVCRLPGTSEAICATYTGCIIIPGATCPGDYAN   46 (46)
+Q Consensus         1 ~SCCPsttARN~YN~CRl~G~sr~~CA~lsgCkIi~g~tCP~~Y~n   46 (46)
+                      |+|||+++|||+||+||+.+ ++++||+++|||++++++||+||++
+T Consensus         1 ksCCpst~aRn~Yn~Cr~~g-~~~~Ca~~sgCk~~~g~~CP~gy~~   45 (45)
+T 1BHP_A            1 KSCCKSTLGRNCYNLCRARG-AQKLCANVCRCKLTSGLSCPKDFPK   45 (45)
+T ss_dssp             CEEESSHHHHHHHHHHTTTS-CHHHHHHHTTEEECSSSSCCTTSCC
+T ss_pred             CcccCCccHHHHHhhHHhcC-CchHHHhhcCCEeccCCCCCCCCCC
+Confidence            79999999999999999999 8899999999999999999999986
+
+
+No 8
+>1WUW_B Beta-hordothionin; crambin fold, dimer, PLANT PROTEIN; HET: SER, TSU; 1.9A {Hordeum vulgare} SCOP: g.13.1.1
+Probab=99.80  E-value=6.4e-24  Score=115.95  Aligned_cols=45  Identities=31%  Similarity=0.928  Sum_probs=43.3  Template_Neff=5.000
+
+Q 1CBN_1|Chain      1 TTCCPSIVARSNFNVCRLPGTSEAICATYTGCIIIPGATCPGDYAN   46 (46)
+Q Consensus         1 ~SCCPsttARN~YN~CRl~G~sr~~CA~lsgCkIi~g~tCP~~Y~n   46 (46)
+                      |+|||+++|||+||+||+.+ ++++||+++|||++++++||+||++
+T Consensus         1 ksCCpst~aRn~Yn~Cr~~g-~~~~Ca~~sgCk~~~g~~CP~gy~~   45 (45)
+T 1WUW_B            1 KSCCRSTLGRNCYNLCRVRG-AQKLCANACRCKLTSGLKCPSSFPK   45 (45)
+T ss_dssp             CEECSSHHHHHHHHHHTTTS-CHHHHHHHHTCEECSSSSCCTTSCC
+T ss_pred             CcccCCccHHHhhhhHhhcC-ChhHHHHhcCCEeccCCCCCCCCCC
+Confidence            79999999999999999999 7889999999999999999999986
+
+
+No 9
+>1G1Q_B P-SELECTIN; Lectin, EGF, Adhesion molecule, IMMUNE; HET: MRD; 2.4A {Homo sapiens} SCOP: d.169.1.1, g.3.11.1
+Probab=34.23  E-value=34  Score=19.48  Aligned_cols=31  Identities=13%  Similarity=0.420  Sum_probs=14.8  Template_Neff=11.000
+
+Q 1CBN_1|Chain     15 VCRLPGTSEAICATYTGCIIIP---GATCPGDYA   45 (46)
+Q Consensus        15 ~CRl~G~sr~~CA~lsgCkIi~---g~tCP~~Y~   45 (46)
+                      +|.........|.....|....   ...||+||.
+T Consensus       116 iC~~~~~~~~~~~~~~~~~~~~~~~~~~C~~g~~  149 (162)
+T 1G1Q_B          116 LCYTASCQDMSCSKQGECLETIGNYTCSCYPGFY  149 (162)
+T ss_dssp             EEEECCCCSSGGGGSEEEEEETTEEEEEECTTEE
+T ss_pred             eEecCCCCCCccCCCCeeecccCceEeecCCCcc
+Confidence            4444433333344334443332   237999884
+
+
+No 10
+>1G1S_A P-SELECTIN, PSGL-1 PEPTIDE, SACCHARIDE COMPLEX; selectin, lectin, egf, sulphated, slex; HET: NAG, GAL, TYS, FUC, MRD, NGA, SIA; 1.9A {Homo sapiens} SCOP: d.169.1.1, g.3.11.1
+Probab=34.23  E-value=34  Score=19.48  Aligned_cols=31  Identities=13%  Similarity=0.420  Sum_probs=14.8  Template_Neff=11.000
+
+Q 1CBN_1|Chain     15 VCRLPGTSEAICATYTGCIIIP---GATCPGDYA   45 (46)
+Q Consensus        15 ~CRl~G~sr~~CA~lsgCkIi~---g~tCP~~Y~   45 (46)
+                      +|.........|.....|....   ...||+||.
+T Consensus       116 iC~~~~~~~~~~~~~~~~~~~~~~~~~~C~~g~~  149 (162)
+T 1G1S_A          116 LCYTASCQDMSCSKQGECLETIGNYTCSCYPGFY  149 (162)
+T ss_dssp             EEEECCCCTTGGGGSEEEEECSSSEEEEECTTEE
+T ss_pred             eEecCCCCCCccCCCCeeecccCceEeecCCCcc
+Confidence            4444433333344334443332   237999884
+
+
