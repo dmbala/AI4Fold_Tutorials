@@ -1,8 +1,8 @@
 # AI4Fold_Tutorials
 
-* AF2/ (AlphaFold2 examples - running with full db, reduced db, and msa+structure prediction)
-* AnalysisScripts/ (scripts to get RMSD and pTM plots)
-* RF/ (RoseTTAFold examples)
+* AF2 (AlphaFold2 examples - running with full db, reduced db, and msa+structure prediction)
+* AnalysisScripts (scripts to get RMSD and pTM plots)
+* RF (RoseTTAFold examples)
 
 
 ## How to get structure of a protein from its sequence. 
