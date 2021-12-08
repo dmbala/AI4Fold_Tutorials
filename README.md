@@ -39,7 +39,9 @@ To run all the jobs
 > ./run_all_jobs.sh
 ```
 Now check your jobs:
+```
 > squeue -u <netid> 
+```
 Note that if you are not running this on the Amarel clsuter, please modify the db and bin path in the wrapper scripts, and  change the patition names and other parameters specific to your local cluster. 
 
 
