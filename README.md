@@ -39,6 +39,12 @@
 
 ### Submitting jobs to the cluster via SLURM
 
+SSH into the cluster. For this step, you need to open a terminal, SSH client,  or web access method like Open Ondemand, Chrome Shell App, or Fastx. 
+
+```
+ssh <netid>@amarel.hpc.rutgers.edu
+```
+
 Clone this repository
 ```
 >  git clone https://github.com/dmbala/AI4Fold_Tutorials
