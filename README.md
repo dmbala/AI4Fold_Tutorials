@@ -1,5 +1,7 @@
 # AI4Fold_Tutorials
-## Initial Setups
+
+### Initial Setups
+
     ### Compute Accounts
 *   Register for the Robetta server account https://robetta.bakerlab.org/register.php (takes about a minute)
 *   For using colab, you need an active gmail account https://support.google.com/mail/answer/56256?hl=en (takes about a minute)
