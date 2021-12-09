@@ -8,9 +8,9 @@
 *   Rutger's participants with an active Rutger's netid can apply for the Amarel cluster account: https://oarc.rutgers.edu/amarel-cluster-access-request/
 
 ### SSH clients
-    Chrome Browser - Secured Shell App: https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo?hl=en
-    Windows OS - git bash: https://gitforwindows.org/
-    Others: puTTY, moabaxterm, winscp,
+    * Chrome Browser - Secured Shell App: https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo?hl=en
+    * Windows OS - git bash: https://gitforwindows.org/
+    * Others: puTTY, moabaxterm, winscp,
 
 ## Main Folders
     AF2 (AlphaFold2 examples - running with full db, reduced db, and msa+structure prediction)
