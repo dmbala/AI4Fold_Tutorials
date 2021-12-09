@@ -1,5 +1,18 @@
 # AI4Fold_Tutorials
 
+## Set-up 
+
+### Compute Accounts
+* Register for the Robetta server account https://robetta.bakerlab.org/register.php (takes about a minute)
+* For using colab, you need an active gmail account https://support.google.com/mail/answer/56256?hl=en (takes about a minute)
+* Amarel cluster account for Rutger's participants (requires Rutger's netid) fill this form https://oarc.rutgers.edu/amarel-cluster-access-request/
+
+## SSH clients
+Chrome Browser - Secured Shell App: https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo?hl=en
+Windows OS - git bash: https://gitforwindows.org/
+
+## Main Folders
+
     AF2 (AlphaFold2 examples - running with full db, reduced db, and msa+structure prediction)
     AnalysisScripts (scripts to get RMSD and pTM plots)
     RF (RoseTTAFold examples)
