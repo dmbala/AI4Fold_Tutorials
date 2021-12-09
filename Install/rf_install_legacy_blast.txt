@@ -1,0 +1,3 @@
+#If RF complains about some error on blast, go for the legacy blast
+
+conda install --force-reinstall biocore::blast-legacy=2.2.26

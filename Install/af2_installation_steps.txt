@@ -1,0 +1,47 @@
+conda create -n af2
+source activate af2
+./install_local.sh
+
+# Here is the installation script install_local.sh
+----------------------------------
+
+#!/bin/bash
+
+# conda pkgs
+conda install python=3.8
+
+conda install -y -c nvidia cudnn==8.0.4
+conda install -y -c bioconda hmmer hhsuite==3.3.0 kalign2
+
+conda install -y -c conda-forge \
+      openmm=7.5.1 \
+      pdbfixer \
+
+      pip
+
+git clone https://github.com/deepmind/alphafold
+cd alphafold
+# python pkgs
+pip3 install --upgrade pip \
+    && pip3 install -r ./requirements.txt \
+    && pip3 install --upgrade "jax[cuda111]" -f \
+    https://storage.googleapis.com/jax-releases/jax_releases.html \
+    && pip3 install jaxlib==0.1.70+cuda111 -f \
+    https://storage.googleapis.com/jax-releases/jax_releases.html
+
+work_path=$(PWD)
+# update openmm
+a=$(which python)
+cd $(dirname $(dirname $a))/lib/python3.8/site-packages
+patch -p0 < $work_path/docker/openmm.patch
+----------------------
+# Optional packages
+conda install -c conda-forge jupyter notebook ambertools nglview
+conda install -c conda-forge -c schrodinger pymol-bundle
+conda install -c conda-forge py3dmol
+
+# get this file
+wget  https://git.scicore.unibas.ch/schwede/openstructure/-/raw/7102c63615b64735c4941278d92b554ec94415f8/modules/mol/alg/src/stereo_chemical_props.txt
+
+
+

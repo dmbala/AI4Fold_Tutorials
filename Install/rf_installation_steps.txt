@@ -1,0 +1,37 @@
+Clone the package
+git clone https://github.com/RosettaCommons/RoseTTAFold.git
+cd RoseTTAFold
+Create conda environment using RoseTTAFold-linux.yml file and folding-linux.yml file. The latter is required to run a pyrosetta version only (run_pyrosetta_ver.sh).
+# create conda environment for RoseTTAFold
+#   If your NVIDIA driver compatible with cuda11
+conda env create -f RoseTTAFold-linux.yml
+#   If not (but compatible with cuda10)
+conda env create -f RoseTTAFold-linux-cu101.yml
+
+# create conda environment for pyRosetta folding & running DeepAccNet
+conda env create -f folding-linux.yml
+Download network weights (under Rosetta-DL Software license -- please see below)
+While the code is licensed under the MIT License, the trained weights and data for RoseTTAFold are made available for non-commercial use only under the terms of the Rosetta-DL Software license. You can find details at https://files.ipd.uw.edu/pub/RoseTTAFold/Rosetta-DL_LICENSE.txt
+[Update Nov/02/2021] It's now including the weights (RF2t.pt) for RoseTTAFold-2track model used for yeast PPI screening. If you want to use it, please re-download weights. The original RoseTTAFold weights are not changed.
+
+wget https://files.ipd.uw.edu/pub/RoseTTAFold/weights.tar.gz
+tar xfz weights.tar.gz
+Download and install third-party software.
+./install_dependencies.sh
+Download sequence and structure databases
+# uniref30 [46G]
+wget http://wwwuser.gwdg.de/~compbiol/uniclust/2020_06/UniRef30_2020_06_hhsuite.tar.gz
+mkdir -p UniRef30_2020_06
+tar xfz UniRef30_2020_06_hhsuite.tar.gz -C ./UniRef30_2020_06
+
+# BFD [272G]
+wget https://bfd.mmseqs.com/bfd_metaclust_clu_complete_id30_c90_final_seq.sorted_opt.tar.gz
+mkdir -p bfd
+tar xfz bfd_metaclust_clu_complete_id30_c90_final_seq.sorted_opt.tar.gz -C ./bfd
+
+# structure templates (including *_a3m.ffdata, *_a3m.ffindex) [over 100G]
+wget https://files.ipd.uw.edu/pub/RoseTTAFold/pdb100_2021Mar03.tar.gz
+tar xfz pdb100_2021Mar03.tar.gz
+
+
+
