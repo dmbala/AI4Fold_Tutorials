@@ -64,5 +64,5 @@ Now check your jobs:
 Note that if you are not running this on the Amarel clsuter, please modify the db and bin path in the wrapper scripts, and  change the patition names and other parameters specific to your local cluster. 
 
 
-
-
+### Slides
+https://drive.google.com/file/d/1AfIXfBuxTPMuU3v9M2XJjx2DxBXUaGAI/view?usp=sharing
