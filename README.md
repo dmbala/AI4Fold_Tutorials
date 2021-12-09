@@ -5,7 +5,7 @@
 ### Compute Accounts
 *   Register for the Robetta server account https://robetta.bakerlab.org/register.php (takes about a minute)
 *   For using colab, you need an active gmail account https://support.google.com/mail/answer/56256?hl=en (takes about a minute)
-*   Amarel cluster account for Rutger's participants (requires Rutger's netid) fill this form https://oarc.rutgers.edu/amarel-cluster-access-request/
+*   Rutger's participants with an active Rutger's netid can apply for the Amarel cluster account: https://oarc.rutgers.edu/amarel-cluster-access-request/
 
 ### SSH clients
     Chrome Browser - Secured Shell App: https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo?hl=en
