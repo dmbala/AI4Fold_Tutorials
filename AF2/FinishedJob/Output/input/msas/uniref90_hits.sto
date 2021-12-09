@@ -1,0 +1,254 @@
+# STOCKHOLM 1.0
+#=GF ID 1CBN_1|Chain-i1
+#=GF DE A|CRAMBIN|Crambe hispanica subsp. abyssinica (3721)
+#=GF AU jackhmmer (HMMER 3.3.2)
+
+#=GS 1CBN_1|Chain                  DE A|CRAMBIN|Crambe hispanica subsp. abyssinica (3721)
+#=GS UniRef90_P01542/1-46          DE [subseq from] Crambin n=1 Tax=Crambe hispanica subsp. abyssinica TaxID=3721 RepID=CRAM_CRAAB
+#=GS UniRef90_P01541/2-45          DE [subseq from] Denclatoxin-B n=1 Tax=Dendrophthora clavata TaxID=3965 RepID=THN_DENCL
+#=GS UniRef90_A0A087HJG3/15-57     DE [subseq from] Uncharacterized protein n=1 Tax=Arabis alpina TaxID=50452 RepID=A0A087HJG3_ARAAL
+#=GS UniRef90_A0A6J0LPX3/26-68     DE [subseq from] thionin-like n=1 Tax=Raphanus sativus TaxID=3726 RepID=A0A6J0LPX3_RAPSA
+#=GS UniRef90_A0A1J3H3C1/43-85     DE [subseq from] Thionin (Fragment) n=3 Tax=Noccaea caerulescens TaxID=107243 RepID=A0A1J3H3C1_NOCCA
+#=GS UniRef90_UPI00053B5351/26-70  DE [subseq from] probable thionin-2.4 n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053B5351
+#=GS UniRef90_P59358/2-43          DE [subseq from] Ligatoxin-B n=2 Tax=Phoradendron liga TaxID=3968 RepID=THNB_PHOLI
+#=GS UniRef90_UPI00053972E0/26-69  DE [subseq from] thionin-like n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053972E0
+#=GS UniRef90_UPI00053A9CE1/26-68  DE [subseq from] probable thionin-2.4 n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053A9CE1
+#=GS UniRef90_UPI000539B729/26-69  DE [subseq from] thionin-like n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI000539B729
+#=GS UniRef90_UPI000539F6FB/26-69  DE [subseq from] probable thionin-2.4 n=2 Tax=Camelina sativa TaxID=90675 RepID=UPI000539F6FB
+#=GS UniRef90_UPI00053A7C15/26-69  DE [subseq from] thionin-like n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053A7C15
+#=GS UniRef90_D0VWT3/2-45          DE [subseq from] Viscotoxin A1 n=1 Tax=Viscum album TaxID=3972 RepID=D0VWT3_VISAL
+#=GS UniRef90_Q43227/14-57         DE [subseq from] Acidic protein (Fragment) n=1 Tax=Tulipa gesneriana TaxID=13306 RepID=Q43227_TULGE
+#=GS UniRef90_A0A6J0LSH2/26-69     DE [subseq from] thionin-like n=1 Tax=Raphanus sativus TaxID=3726 RepID=A0A6J0LSH2_RAPSA
+#=GS UniRef90_P07504/2-46          DE [subseq from] Thionin n=1 Tax=Pyrularia pubera TaxID=3960 RepID=THN_PYRPU
+#=GS UniRef90_UPI00053A8AAB/26-69  DE [subseq from] thionin-like n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053A8AAB
+#=GS UniRef90_A0A6J0MU52/26-68     DE [subseq from] thionin-like n=2 Tax=Raphanus sativus TaxID=3726 RepID=A0A6J0MU52_RAPSA
+#=GS UniRef90_A0A803QV54/27-69     DE [subseq from] Uncharacterized protein n=1 Tax=Cannabis sativa TaxID=3483 RepID=A0A803QV54_CANSA
+#=GS UniRef90_UPI00053B1646/26-69  DE [subseq from] probable thionin-2.4 n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053B1646
+#=GS UniRef90_A0A7J6DP01/27-69     DE [subseq from] Uncharacterized protein n=5 Tax=Cannabis sativa TaxID=3483 RepID=A0A7J6DP01_CANSA
+#=GS UniRef90_P83554/2-45          DE [subseq from] Viscotoxin-C1 n=1 Tax=Viscum album TaxID=3972 RepID=THNC_VISAL
+#=GS UniRef90_UPI00053AD723/26-67  DE [subseq from] thionin isoform X4 n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053AD723
+#=GS UniRef90_UPI000539A71C/26-67  DE [subseq from] thionin isoform X1 n=3 Tax=Camelina sativa TaxID=90675 RepID=UPI000539A71C
+#=GS UniRef90_UPI00053BB1D7/26-68  DE [subseq from] probable thionin-2.4 n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053BB1D7
+#=GS UniRef90_Q8LT03/30-73         DE [subseq from] Acidic protein n=1 Tax=Avena sativa TaxID=4498 RepID=Q8LT03_AVESA
+#=GS UniRef90_R0I5Q0/26-68         DE [subseq from] Uncharacterized protein n=1 Tax=Capsella rubella TaxID=81985 RepID=R0I5Q0_9BRAS
+#=GS UniRef90_UPI00053B0EE5/26-69  DE [subseq from] thionin n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053B0EE5
+#=GS UniRef90_UPI00053B8874/26-69  DE [subseq from] thionin-like n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053B8874
+#=GS UniRef90_A0A7J6G898/26-70     DE [subseq from] Uncharacterized protein n=2 Tax=Cannabis sativa TaxID=3483 RepID=A0A7J6G898_CANSA
+#=GS UniRef90_P01538/28-71         DE [subseq from] Viscotoxin-A3 n=2 Tax=Viscum album TaxID=3972 RepID=THN3_VISAL
+#=GS UniRef90_R0H6L0/26-71         DE [subseq from] Uncharacterized protein n=1 Tax=Capsella rubella TaxID=81985 RepID=R0H6L0_9BRAS
+#=GS UniRef90_A0A7J6GU27/27-69     DE [subseq from] Uncharacterized protein n=4 Tax=Cannabis sativa TaxID=3483 RepID=A0A7J6GU27_CANSA
+#=GS UniRef90_P08943/8-51          DE [subseq from] Viscotoxin-B (Fragment) n=1 Tax=Viscum album TaxID=3972 RepID=THNB_VISAL
+#=GS UniRef90_UPI00053B3199/26-70  DE [subseq from] probable thionin-2.4 n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053B3199
+#=GS UniRef90_R0F7R7/26-69         DE [subseq from] Uncharacterized protein n=1 Tax=Capsella rubella TaxID=81985 RepID=R0F7R7_9BRAS
+#=GS UniRef90_R0GYM0/108-148       DE [subseq from] Uncharacterized protein n=2 Tax=Capsella rubella TaxID=81985 RepID=R0GYM0_9BRAS
+#=GS UniRef90_UPI001125C77B/29-71  DE [subseq from] hypothetical protein n=2 Tax=Salmonella enterica TaxID=28901 RepID=UPI001125C77B
+#=GS UniRef90_Q5Z551/29-68         DE [subseq from] Acidic protein n=1 Tax=Oryza sativa subsp. japonica TaxID=39947 RepID=Q5Z551_ORYSJ
+#=GS UniRef90_Q5Z551/81-117        DE [subseq from] Acidic protein n=1 Tax=Oryza sativa subsp. japonica TaxID=39947 RepID=Q5Z551_ORYSJ
+#=GS UniRef90_UPI00112EE802/29-71  DE [subseq from] hypothetical protein n=3 Tax=Salmonella enterica TaxID=28901 RepID=UPI00112EE802
+#=GS UniRef90_A0A6J0MUY4/27-66     DE [subseq from] thionin-like n=1 Tax=Raphanus sativus TaxID=3726 RepID=A0A6J0MUY4_RAPSA
+#=GS UniRef90_UPI00053A7DEA/26-67  DE [subseq from] thionin-like n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053A7DEA
+#=GS UniRef90_P32880/2-42          DE [subseq from] Viscotoxin-A2 n=1 Tax=Viscum album TaxID=3972 RepID=THN2_VISAL
+#=GS UniRef90_P01539/2-43          DE [subseq from] Phoratoxin n=1 Tax=Phoradendron leucarpum subsp. tomentosum TaxID=3969 RepID=THN_PHOLT
+#=GS UniRef90_A0A803QTZ0/27-69     DE [subseq from] Uncharacterized protein n=1 Tax=Cannabis sativa TaxID=3483 RepID=A0A803QTZ0_CANSA
+#=GS UniRef90_R0I1C8/24-67         DE [subseq from] Uncharacterized protein n=3 Tax=Capsella rubella TaxID=81985 RepID=R0I1C8_9BRAS
+#=GS UniRef90_A0A087HJG2/27-72     DE [subseq from] Uncharacterized protein n=1 Tax=Arabis alpina TaxID=50452 RepID=A0A087HJG2_ARAAL
+#=GS UniRef90_R0FRU0/26-69         DE [subseq from] Uncharacterized protein n=1 Tax=Capsella rubella TaxID=81985 RepID=R0FRU0_9BRAS
+#=GS UniRef90_Q8LSZ9/30-72         DE [subseq from] Acidic protein n=1 Tax=Avena sativa TaxID=4498 RepID=Q8LSZ9_AVESA
+#=GS UniRef90_Q8LT02/30-73         DE [subseq from] Acidic protein n=1 Tax=Avena sativa TaxID=4498 RepID=Q8LT02_AVESA
+#=GS UniRef90_A0A087HJG4/15-58     DE [subseq from] Uncharacterized protein n=1 Tax=Arabis alpina TaxID=50452 RepID=A0A087HJG4_ARAAL
+#=GS UniRef90_A0A7J6DSA0/27-70     DE [subseq from] Uncharacterized protein n=8 Tax=Cannabis sativa TaxID=3483 RepID=A0A7J6DSA0_CANSA
+#=GS UniRef90_UPI00053AA638/10-52  DE [subseq from] thionin-like n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053AA638
+#=GS UniRef90_A0A7J6FQI3/27-69     DE [subseq from] Uncharacterized protein n=4 Tax=Cannabis sativa TaxID=3483 RepID=A0A7J6FQI3_CANSA
+#=GS UniRef90_UPI00053A449A/26-68  DE [subseq from] probable thionin-2.4 n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053A449A
+#=GS UniRef90_Q9SBK8/26-69         DE [subseq from] Thionin n=4 Tax=Brassica TaxID=3705 RepID=THN_BRARP
+#=GS UniRef90_R0HVZ8/26-68         DE [subseq from] Uncharacterized protein n=1 Tax=Capsella rubella TaxID=81985 RepID=R0HVZ8_9BRAS
+#=GS UniRef90_UPI000CD4A9F2/26-67  DE [subseq from] probable thionin-2.4 n=1 Tax=Capsella rubella TaxID=81985 RepID=UPI000CD4A9F2
+#=GS UniRef90_R0H2A6/26-67         DE [subseq from] Uncharacterized protein n=1 Tax=Capsella rubella TaxID=81985 RepID=R0H2A6_9BRAS
+#=GS UniRef90_R0G7T6/24-67         DE [subseq from] Uncharacterized protein n=1 Tax=Capsella rubella TaxID=81985 RepID=R0G7T6_9BRAS
+#=GS UniRef90_A0A0E0PYI6/29-68     DE [subseq from] Acidic protein n=1 Tax=Oryza rufipogon TaxID=4529 RepID=A0A0E0PYI6_ORYRU
+#=GS UniRef90_A0A0E0PYI6/157-196   DE [subseq from] Acidic protein n=1 Tax=Oryza rufipogon TaxID=4529 RepID=A0A0E0PYI6_ORYRU
+#=GS UniRef90_UPI0000F195C2/29-68  DE [subseq from] leaf-specific thionin BTH6 n=1 Tax=Oryza sativa subsp. japonica TaxID=39947 RepID=UPI0000F195C2
+#=GS UniRef90_UPI0000F195C2/81-117 DE [subseq from] leaf-specific thionin BTH6 n=1 Tax=Oryza sativa subsp. japonica TaxID=39947 RepID=UPI0000F195C2
+#=GS UniRef90_UPI000539B2C2/26-69  DE [subseq from] probable thionin-2.4 n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI000539B2C2
+#=GS UniRef90_P01537/2-42          DE [subseq from] Viscotoxin-1-PS n=1 Tax=Viscum album TaxID=3972 RepID=THN1_VISAL
+#=GS UniRef90_A0A287T4L6/8-51      DE [subseq from] Acidic protein n=1 Tax=Hordeum vulgare subsp. vulgare TaxID=112509 RepID=A0A287T4L6_HORVV
+#=GS UniRef90_UPI000539FD1A/26-70  DE [subseq from] probable thionin-2.4 n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI000539FD1A
+#=GS UniRef90_Q8LT01/30-73         DE [subseq from] Acidic protein n=1 Tax=Avena sativa TaxID=4498 RepID=Q8LT01_AVESA
+#=GS UniRef90_A0A287EC66/30-73     DE [subseq from] Acidic protein n=6 Tax=Hordeum vulgare subsp. vulgare TaxID=112509 RepID=A0A287EC66_HORVV
+#=GS UniRef90_UPI00053B0C71/26-68  DE [subseq from] probable thionin-2.4 n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053B0C71
+#=GS UniRef90_A0A7J6XDM6/31-73     DE [subseq from] Thionin n=1 Tax=Thalictrum thalictroides TaxID=46969 RepID=A0A7J6XDM6_THATH
+#=GS UniRef90_A0A1E5VL03/29-71     DE [subseq from] Acidic protein n=1 Tax=Dichanthelium oligosanthes TaxID=888268 RepID=A0A1E5VL03_9POAL
+#=GS UniRef90_UPI000E6FAF1C/30-73  DE [subseq from] basic proline-rich protein-like n=1 Tax=Papaver somniferum TaxID=3469 RepID=UPI000E6FAF1C
+#=GS UniRef90_R0GP19/26-69         DE [subseq from] Uncharacterized protein n=1 Tax=Capsella rubella TaxID=81985 RepID=R0GP19_9BRAS
+#=GS UniRef90_A0A7J6GU35/52-94     DE [subseq from] Uncharacterized protein n=1 Tax=Cannabis sativa TaxID=3483 RepID=A0A7J6GU35_CANSA
+#=GS UniRef90_A0A287T4B6/30-73     DE [subseq from] Acidic protein n=3 Tax=Hordeum vulgare subsp. vulgare TaxID=112509 RepID=A0A287T4B6_HORVV
+#=GS UniRef90_A0A287T4M1/42-85     DE [subseq from] Acidic protein n=1 Tax=Hordeum vulgare subsp. vulgare TaxID=112509 RepID=A0A287T4M1_HORVV
+#=GS UniRef90_A0A287T4J1/30-73     DE [subseq from] Acidic protein n=3 Tax=Hordeum vulgare subsp. vulgare TaxID=112509 RepID=A0A287T4J1_HORVV
+#=GS UniRef90_K3YK39/35-74         DE [subseq from] Acidic protein n=9 Tax=Setaria TaxID=4554 RepID=K3YK39_SETIT
+
+1CBN_1|Chain                          TTCCPSIVARSNFNVCRL-PGT-SEAICATYTGCIII-PGATCPGDYAN
+UniRef90_P01542/1-46                  TTCCPSIVARSNFNVCRL-PGT-PEALCATYTGCIII-PGATCPGDYAN
+#=GR UniRef90_P01542/1-46          PP 8*****************.***.**************.**********8
+UniRef90_P01541/2-45                  -SCCPTTAARNQYNICRL-PGT-PRPVCAALSGCKII-SGTGCPPGYR-
+#=GR UniRef90_P01541/2-45          PP .7****************.***.**************.******9885.
+UniRef90_A0A087HJG3/15-57             -ICCPSLTSRISFNICRM-PGS-SKPFCARISGCKIV-NGGNCPPDY--
+#=GR UniRef90_A0A087HJG3/15-57     PP .5****************.***.**************.********9..
+UniRef90_A0A6J0LPX3/26-68             -SCCPTITARNTYNVCRL-PGT-PRPVCASLSGCKIL-SVTTCPRDY--
+#=GR UniRef90_A0A6J0LPX3/26-68     PP .7****************.***.**************.********9..
+UniRef90_A0A1J3H3C1/43-85             -SCCPTTAARNTYNVCRL-PGT-PRPVCASLSGCIII-SGTRCPPNY--
+#=GR UniRef90_A0A1J3H3C1/43-85     PP .7****************.***.**************.******999..
+UniRef90_UPI00053B5351/26-70          -SCCPSVTARNIYNVCRL-TGS-SKQVCANISNCKVV-SGSTCPNGYPN
+#=GR UniRef90_UPI00053B5351/26-70  PP .7****************.***.**************.*******9987
+UniRef90_P59358/2-43                  -SCCPSTTARNIYNTCRL-TGA-SRSVCASLSGCKII-SGSTCDSG---
+#=GR UniRef90_P59358/2-43          PP .7****************.***.**************.*****865...
+UniRef90_UPI00053972E0/26-69          -SCCPNTSARNIYNACRL-PGT-PRPVCASLSGCKII-SGGTCPNGYK-
+#=GR UniRef90_UPI00053972E0/26-69  PP .7****************.***.**************.******9985.
+UniRef90_UPI00053A9CE1/26-68          -SCCPSVPARNTYNVCRL-AGG-SKQVCANISDCKIV-SGSTCPNGY--
+#=GR UniRef90_UPI00053A9CE1/26-68  PP .7****************.***.**************.******998..
+UniRef90_UPI000539B729/26-69          -SCCPSQSARNIFNVCRL-GGS-DQFFCASLSGCGII-GGKTCPNGYQ-
+#=GR UniRef90_UPI000539B729/26-69  PP .7****************.***.**************.******9985.
+UniRef90_UPI000539F6FB/26-69          -SCCPSTYARNVYNTCRI-IGT-SRQVCANLSGCKVI-SGSTCPNGYT-
+#=GR UniRef90_UPI000539F6FB/26-69  PP .7****************.***.**************.******9996.
+UniRef90_UPI00053A7C15/26-69          -SCCPSTTARNIYNSCRF-VGT-SRPVCASLSGCKII-GGSTCPNGYK-
+#=GR UniRef90_UPI00053A7C15/26-69  PP .7****************.***.**************.******9985.
+UniRef90_D0VWT3/2-45                  -SCCPSTTGRNIYNTCRL-TGS-SRETCAKLSGCKII-SASTCPSNYP-
+#=GR UniRef90_D0VWT3/2-45          PP .7****************.***.**************.*******995.
+UniRef90_Q43227/14-57                 -SCCPSTAARNCYNVCRF-PGT-PRPVCAATCGCKII-TGTKCPPDYP-
+#=GR UniRef90_Q43227/14-57         PP .7****************.***.**************.********95.
+UniRef90_A0A6J0LSH2/26-69             -SCCPNTTARNTYNVCRL-PGT-PRPICASISGCKIV-SG-TCPPGYTN
+#=GR UniRef90_A0A6J0LSH2/26-69     PP .7****************.***.*************9.87.89998987
+UniRef90_P07504/2-46                  -SCCRNTWARNCYNVCRL-PGTISREICAKKCDCKII-SGTTCPSDYP-
+#=GR UniRef90_P07504/2-46          PP .7****************.**96789***********.********95.
+UniRef90_UPI00053A8AAB/26-69          -SCCPSTTARNCYNVCRL-PGT-ARETCAKICGCKII-KGTKCPQPYT-
+#=GR UniRef90_UPI00053A8AAB/26-69  PP .7****************.***.**************.******9986.
+UniRef90_A0A6J0MU52/26-68             -SCCPGTTARNAYNICRL-TGS-SRKTCAKISGCKIV-SGTTCPQGY--
+#=GR UniRef90_A0A6J0MU52/26-68     PP .7****************.***.**************.******988..
+UniRef90_A0A803QV54/27-69             -ICCPTTPARNFFTVCRL-TGS-SRETCAKLSGCKII-SGNTCPDPY--
+#=GR UniRef90_A0A803QV54/27-69     PP .5****************.***.**************.******988..
+UniRef90_UPI00053B1646/26-69          -SCCPSTTARNIYNTCRL-PGT-PRYVCADLSGCKIV-DG-TCPNGYTN
+#=GR UniRef90_UPI00053B1646/26-69  PP .7****************.***.*************9.88.9***9987
+UniRef90_A0A7J6DP01/27-69             -SCCPTTTARNIYNACRL-TGD-SRKFCASISGCKII-SGNTCPDPY--
+#=GR UniRef90_A0A7J6DP01/27-69     PP .7****************.***.**************.******988..
+UniRef90_P83554/2-45                  -SCCPNTTGRNIYNTCRF-AGG-SRERCAKLSGCKII-SASTCPSDYP-
+#=GR UniRef90_P83554/2-45          PP .7****************.***.**************.********95.
+UniRef90_UPI00053AD723/26-67          -SCCPSTTARNIYNACRL-GGA-SRPVCASLSGCIVV-P-AKCPSGY--
+#=GR UniRef90_UPI00053AD723/26-67  PP .7****************.***.**************.9.68**988..
+UniRef90_UPI000539A71C/26-67          -SCCPSTTARNIYNACRL-GGA-SRPVCASLSGCIVV-P-AKCPSGY--
+#=GR UniRef90_UPI000539A71C/26-67  PP .7****************.***.**************.9.68**988..
+UniRef90_UPI00053BB1D7/26-68          -SCCPSTTARNVYNTCRL-TGQ-SQPFCASLSGCKLV-SGSVCPPGY--
+#=GR UniRef90_UPI00053BB1D7/26-68  PP .7****************.***.**************.******988..
+UniRef90_Q8LT03/30-73                 -SCCKDIMARNCYNVCRI-PGT-PRPVCATTCRCKII-SGNKCPKDYP-
+#=GR UniRef90_Q8LT03/30-73         PP .7****************.***.**************.********95.
+UniRef90_R0I5Q0/26-68                 -SCCPSTNARNIYNACRL-MGT-SRPICASLSGCKIV-NG-SCPGGYP-
+#=GR UniRef90_R0I5Q0/26-68         PP .7****************.***.*************9.88.6***995.
+UniRef90_UPI00053B0EE5/26-69          -SCCPTTTARNIYNSCRF-LGT-SQSTCANISGCKIV-GGSTCPNGYT-
+#=GR UniRef90_UPI00053B0EE5/26-69  PP .7****************.***.**************.******9996.
+UniRef90_UPI00053B8874/26-69          -SCCPNTTARNCYNVCRL-PGT-GRETCAKLCGCKII-KGTKCPPGYT-
+#=GR UniRef90_UPI00053B8874/26-69  PP .7****************.***.**************.******9886.
+UniRef90_A0A7J6G898/26-70             -SCCPSTTARNIYNTCRF-GGG-SRETCASISGCRII-TGNTCPGGWTN
+#=GR UniRef90_A0A7J6G898/26-70     PP .7****************.***.**************.*******9876
+UniRef90_P01538/28-71                 -SCCPNTTGRNIYNACRL-TGA-PRPTCAKLSGCKII-SGSTCPSDYP-
+#=GR UniRef90_P01538/28-71         PP .7****************.***.**************.********95.
+UniRef90_R0H6L0/26-71                 -SCCPNRTARNVYNVCRLGPAP-SPAVCARLSGCKII-NGSTCPNGYTN
+#=GR UniRef90_R0H6L0/26-71         PP .7***************98999.**************.********987
+UniRef90_A0A7J6GU27/27-69             -ICCPTTPARNIFTVCRL-TGS-SRETCAKLSGCKII-SGNTCPDPY--
+#=GR UniRef90_A0A7J6GU27/27-69     PP .5****************.***.**************.******988..
+UniRef90_P08943/8-51                  -SCCPNTTGRNIYNTCRL-GGG-SRERCASLSGCKII-SASTCPSDYP-
+#=GR UniRef90_P08943/8-51          PP .7****************.***.**************.********95.
+UniRef90_UPI00053B3199/26-70          -SCCPSTSARNIYNVCRL-SGG-PRQVCASLSGCKIV-SVSTCPNGYTN
+#=GR UniRef90_UPI00053B3199/26-70  PP .7****************.***.**************.********987
+UniRef90_R0F7R7/26-69                 -SCCPNTTARNIYNTCRL-PGT-PRPTCASLSGCKII-SSGRCPNGYT-
+#=GR UniRef90_R0F7R7/26-69         PP .7****************.***.**************.******9996.
+UniRef90_R0GYM0/108-148               -SCCPNTTARNCYNVCRL-PGT-PRPTCASLCGCKIV-EGPTCPP----
+#=GR UniRef90_R0GYM0/108-148       PP .7****************.***.**************.*****94....
+UniRef90_UPI001125C77B/29-71          -SCCPSTTARNIYNTCRV-PGT-ARPVCAKLSGCIIQ-EAKKCEPPY--
+#=GR UniRef90_UPI001125C77B/29-71  PP .7****************.***.*************9.999997666..
+UniRef90_Q5Z551/29-68                 -SCCPSTSARNVYNSCRF-AGG-SREACAKLSTCKHF-DGSCQP-----
+#=GR UniRef90_Q5Z551/29-68         PP .7****************.***.***********999.886544.....
+UniRef90_Q5Z551/81-117                --CCPSSTARNIYTSCRF-VGG-SYDSCARLSGCKID-FGRC-------
+#=GR UniRef90_Q5Z551/81-117        PP ..****************.***.***********987.6653.......
+UniRef90_UPI00112EE802/29-71          -SCCPSTTARNIYNTCRV-PGT-ARPVCAKLSGCIIQ-EAKKCEPPY--
+#=GR UniRef90_UPI00112EE802/29-71  PP .7****************.***.*************9.999997665..
+UniRef90_A0A6J0MUY4/27-66             --FCPSTSARNSYNICRL-TGA-SRQTCAKMSGCKIV-SGTTCPQ----
+#=GR UniRef90_A0A6J0MUY4/27-66     PP ..6***************.***.**************.*****95....
+UniRef90_UPI00053A7DEA/26-67          -SCCPSTTARNIYNSCRL-TGA-SRPVCASLSGCKVV-P-AKCPNGY--
+#=GR UniRef90_UPI00053A7DEA/26-67  PP .7****************.***.**************.9.68**988..
+UniRef90_P32880/2-42                  -SCCPNTTGRNIYNTCRF-GGG-SREVCASLSGCKII-SASTCPS----
+#=GR UniRef90_P32880/2-42          PP .7****************.***.**************.******6....
+UniRef90_P01539/2-43                  -SCCPTTTARNIYNTCRF-GGG-SRPVCAKLSGCKII-SGTKCDSG---
+#=GR UniRef90_P01539/2-43          PP .7****************.***.**************.*****865...
+UniRef90_A0A803QTZ0/27-69             -SCCPTTTARNIYDACRF-TGG-SREFCAKLSGCKII-SGNTCPDGY--
+#=GR UniRef90_A0A803QTZ0/27-69     PP .7****************.***.**************.******988..
+UniRef90_R0I1C8/24-67                 -SCCPTTTARNIYNTCRL-TGS-PRPVCASLSGCINI-SGTKCPNGYP-
+#=GR UniRef90_R0I1C8/24-67         PP .7****************.***.**************.******9985.
+UniRef90_A0A087HJG2/27-72             -SCCPSLDARDDYDLCRL-VGY-SKDDCASTNGCKLVNKGGTCPSGYPN
+#=GR UniRef90_A0A087HJG2/27-72     PP .7****************.***.***********76637******9987
+UniRef90_R0FRU0/26-69                 -SCCPNTTARNCYNACRF-PGA-PRPVCASLCGCQIV-GGSTCPSGYT-
+#=GR UniRef90_R0FRU0/26-69         PP .7****************.***.**************.******9996.
+UniRef90_Q8LSZ9/30-72                 -SCCPSTSARNCYNVCRL-TGT-SRPRCASLCGCKIV-DG-TCPDGYS-
+#=GR UniRef90_Q8LSZ9/30-72         PP .7****************.***.*************9.98.8**9986.
+UniRef90_Q8LT02/30-73                 -SCCKDTTARNCYNVCRI-PGT-PRPVCATTCRCKII-SGNKCPKDYP-
+#=GR UniRef90_Q8LT02/30-73         PP .7****************.***.**************.********95.
+UniRef90_A0A087HJG4/15-58             -ICCPSVTSRYAFNICRI-GGR-SNKFCARISACKIV-NEGNCPPDYP-
+#=GR UniRef90_A0A087HJG4/15-58     PP .5****************.***.**************.********95.
+UniRef90_A0A7J6DSA0/27-70             -SCCPTTTARNIYDACRF-TGG-SREFCAKLSGCKII-SGNTCPDGYK-
+#=GR UniRef90_A0A7J6DSA0/27-70     PP .7****************.***.**************.******9885.
+UniRef90_UPI00053AA638/10-52          -SCCPSTTARNIYNVCRL-GGG-SRPMCASLSGCKIV-NG-KCPNGYT-
+#=GR UniRef90_UPI00053AA638/10-52  PP .7****************.***.*************9.88.6999986.
+UniRef90_A0A7J6FQI3/27-69             -SCCPTTAARNIYDACRF-AGG-SREFCAKLSGCKII-SGNTCPDGY--
+#=GR UniRef90_A0A7J6FQI3/27-69     PP .7****************.***.**************.******988..
+UniRef90_UPI00053A449A/26-68          -SCCPNTTARNIYNTCRL-GGG-SRALCANLSGCKIV-NG-KCPNGYT-
+#=GR UniRef90_UPI00053A449A/26-68  PP .7****************.***.*************9.88.6999986.
+UniRef90_Q9SBK8/26-69                 -ICCPRTIDRNIYNACRL-TGA-SMTNCANLSGCKIV-SGTTCPPGYT-
+#=GR UniRef90_Q9SBK8/26-69         PP .5****************.***.**************.******9886.
+UniRef90_R0HVZ8/26-68                 -SCCPSSTARNIYNTCRF-GGV-PSSICVGLSGCLLI-GGSKCPNGY--
+#=GR UniRef90_R0HVZ8/26-68         PP .7****************.***.**************.******998..
+UniRef90_UPI000CD4A9F2/26-67          -SCCPTTTARNVYNTCRL-AGL-SRAVCANRSGCRLV-NG-SCPNGY--
+#=GR UniRef90_UPI000CD4A9F2/26-67  PP .7****************.***.*************9.88.699988..
+UniRef90_R0H2A6/26-67                 -SCCPTTTARNVYNTCRL-AGL-SRAVCANRSGCRLV-NG-SCPNGY--
+#=GR UniRef90_R0H2A6/26-67         PP .7****************.***.*************9.88.699988..
+UniRef90_R0G7T6/24-67                 -SCCPSTTARNIYNTCRF-GGG-SRPVCSGLSGCKII-GGTKCPNGYT-
+#=GR UniRef90_R0G7T6/24-67         PP .7****************.***.**************.******9996.
+UniRef90_A0A0E0PYI6/29-68             -SCCPTTTARNIYNACRF-AHG-TRERCSKLSGCKIV-DGKCKP-----
+#=GR UniRef90_A0A0E0PYI6/29-68     PP .7***************9.866.6778**********.997544.....
+UniRef90_A0A0E0PYI6/157-196           -SCCPTTTARNIYNACRF-ALG-TRERCSKLSGCKIV-DGKCKP-----
+#=GR UniRef90_A0A0E0PYI6/157-196   PP .7***************9.855.5667**********.997544.....
+UniRef90_UPI0000F195C2/29-68          -SCCPSTSARNVYNSCRF-AGG-SREACAKLSTCKHF-DGSCQP-----
+#=GR UniRef90_UPI0000F195C2/29-68  PP .7****************.***.***********999.886544.....
+UniRef90_UPI0000F195C2/81-117         --CCPSSTARNIYTSCRF-VGG-SYDSCARLSGCKID-FGRC-------
+#=GR UniRef90_UPI0000F195C2/81-117 PP ..****************.***.***********987.6653.......
+UniRef90_UPI000539B2C2/26-69          -SCCPSTTARNIYNTCRF-AGG-SRPVCASASGCKII-NSGKCPNGYT-
+#=GR UniRef90_UPI000539B2C2/26-69  PP .7****************.***.**************.******9996.
+UniRef90_P01537/2-42                  -SCCPBTTGRBIYBTCRF-GGG-SRZVCARISGCKII-SASTCPS----
+#=GR UniRef90_P01537/2-42          PP .7****************.***.**************.******6....
+UniRef90_A0A287T4L6/8-51              -SCCKTTFARNCYNTCRF-AGG-SRPVCAGACGCKII-SGSKCPSDYP-
+#=GR UniRef90_A0A287T4L6/8-51      PP .7****************.***.**************.********95.
+UniRef90_UPI000539FD1A/26-70          -SCCPSSIARSIYISCRL-AGS-TKSFCARLGKCIFV-SAKTCPDGYTN
+#=GR UniRef90_UPI000539FD1A/26-70  PP .7****************.***.**************.*******9987
+UniRef90_Q8LT01/30-73                 -TCCKDDIARNCYNVCRI-PGT-PTFICANMCRCIIT-RRNECPNDYP-
+#=GR UniRef90_Q8LT01/30-73         PP .9****************.***.**************.********95.
+UniRef90_A0A287EC66/30-73             -SCCKNTTGRNCYNACRF-AGG-SRPVCATACGCKII-SGPTCPRDYP-
+#=GR UniRef90_A0A287EC66/30-73     PP .7****************.***.**************.********95.
+UniRef90_UPI00053B0C71/26-68          -SCCPSTNARNIYNICRL-VGR-PRPVCASMSGCQIV-DG-SCPNGYT-
+#=GR UniRef90_UPI00053B0C71/26-68  PP .7****************.***.**************.98.5999885.
+UniRef90_A0A7J6XDM6/31-73             -SCCRNTLARNCYNACRL-PGT-PRPTCATLCDCIHI-TGNTCPGTH--
+#=GR UniRef90_A0A7J6XDM6/31-73     PP .7****************.***.**************.*******86..
+UniRef90_A0A1E5VL03/29-71             -SCCKSTIARNCYNVCRL-RDL--QPVCAQVCGCKII-SGNECPSDYP-
+#=GR UniRef90_A0A1E5VL03/29-71     PP .7****************.875..78***********.********95.
+UniRef90_UPI000E6FAF1C/30-73          TSCCESTKARNSYSVCRL-RLG-ASKNCAKLTGCIII-DGTSCPSDY--
+#=GR UniRef90_UPI000E6FAF1C/30-73  PP 79****************.988.8899**********.********9..
+UniRef90_R0GP19/26-69                 -SCCPNTAPRNCYNGCRI-PGT-AKGTCAILCGCKLI-EGTTCPPGYT-
+#=GR UniRef90_R0GP19/26-69         PP .7****************.***.**************.******9886.
+UniRef90_A0A7J6GU35/52-94             -TCCPTTAALNFYNACRI-LGS-SKKTCASLGGCKII-SGNTCSKNY--
+#=GR UniRef90_A0A7J6GU35/52-94     PP .9****************.***.**************.*****9888..
+UniRef90_A0A287T4B6/30-73             -SCCKNTTGRNCYNACRF-AGG-SRPVCATACGCKII-SGPTCPRDYP-
+#=GR UniRef90_A0A287T4B6/30-73     PP .7****************.***.**************.********95.
+UniRef90_A0A287T4M1/42-85             -SCCKNTTGRNCYNACRF-AGG-SRPVCATACGCKII-SGPTCPRDYP-
+#=GR UniRef90_A0A287T4M1/42-85     PP .7****************.***.**************.********95.
+UniRef90_A0A287T4J1/30-73             -SCCKNTTGRNCYNACRF-AGG-SRPVCATACGCKII-SGPTCPRDYP-
+#=GR UniRef90_A0A287T4J1/30-73     PP .7****************.***.**************.********95.
+UniRef90_K3YK39/35-74                 -SCCPSTTARNVYNTCRL-TGA-SRPMCAKLSGCQII-SGNKCK-----
+#=GR UniRef90_K3YK39/35-74         PP .7****************.***.**************.**9993.....
+#=GC PP_cons                          87****************.***.**************.**99*999867
+#=GC RF                               xxxxxxxxxxxxxxxxxx.xxx.xxxxxxxxxxxxxx.xxxxxxxxxxx
+//

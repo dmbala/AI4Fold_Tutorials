@@ -1,0 +1,8 @@
+input fasta file
+/scratch/bd387/Work/AIF/AF2/Workshop/1CBN_1/CPU/input.fa
+Output data directory
+/scratch/bd387/Work/AIF/AF2/Workshop/1CBN_1/CPU/Output
+    MaxRSS  MaxDiskRead MaxDiskWrite    Elapsed 
+---------- ------------ ------------ ---------- 
+                                       01:50:02 
+                                       01:50:02 

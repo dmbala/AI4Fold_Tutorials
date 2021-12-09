@@ -1,0 +1,18 @@
+#!/bin/bash
+#SBATCH --partition=nonpre             # Partition (job queue)
+#SBATCH --requeue                    # Return job to the queue if preempted
+#SBATCH --job-name=af21cbn         # Assign an short name to your job
+#SBATCH --nodes=1                    # Number of nodes you require
+#SBATCH --cpus-per-task=8            # Cores per task (>1 if multithread tasks)
+#SBATCH --mem=32GB                  # Real memory (RAM) required (MB), 0 is the whole-node memory
+#SBATCH --time=4:00:00              # Total run time limit (HH:MM:SS)
+#SBATCH --output=slurm.run_cpu.%N.%j.out     # STDOUT output file
+#SBATCH --error=slurm.run_cpu.%N.%j.err      # STDERR output file (optional)
+
+./wrapper_af2.sh "${PWD}/input.fa" "${PWD}/Output"
+
+
+sleep 6
+sacct --format=MaxRSS,MaxDiskRead,MaxDiskWrite,Elapsed -j $SLURM_JOBID
+sleep 2
+

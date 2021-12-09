@@ -1,0 +1,14 @@
+# STOCKHOLM 1.0
+#=GF ID 1CBN_1|Chain-i1
+#=GF DE A|CRAMBIN|Crambe hispanica subsp. abyssinica (3721)
+#=GF AU jackhmmer (HMMER 3.3.2)
+
+#=GS 1CBN_1|Chain           DE A|CRAMBIN|Crambe hispanica subsp. abyssinica (3721)
+#=GS MGYP000905509187/30-72 DE [subseq from] PL=10 UP=0 BIOMES=0000000100000
+
+1CBN_1|Chain                   TTCCPSIVARSNFNVCRLPGTSEAICATYTGCIIIPGATCPGDYAN
+MGYP000905509187/30-72         -SCCPSTTARNTYNACRFAGGSRPVCAKLSGCKIISGNKCKPPY--
+#=GR MGYP000905509187/30-72 PP .7**************************************8877..
+#=GC PP_cons                   .7**************************************8877..
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//
